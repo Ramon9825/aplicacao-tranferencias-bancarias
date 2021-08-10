@@ -1,0 +1,16 @@
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank.deps.json
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.json
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.dev.json
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank.dll
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/ref/DIO.bank.dll
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/bin/Debug/net5.0/DIO.bank.pdb
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.csprojAssemblyReference.cache
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfoInputs.cache
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfo.cs
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.csproj.CoreCompileInputs.cache
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.dll
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/ref/DIO.bank.dll
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.pdb
+/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/obj/Debug/net5.0/DIO.bank.genruntimeconfig.cache

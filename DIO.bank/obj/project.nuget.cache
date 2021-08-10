@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cr1bj7UmtxIYApOJy876o5gTQ1OVBIATsDJ9t4kSVjzcDL1jQYeq/qe3FK0/Y9x262YpWtYGZQripKVPtmBJkA==",
+  "success": true,
+  "projectFilePath": "/home/ramon/Documentos/C#/aplicação-de-transferências-bancárias/DIO.bank/DIO.bank.csproj",
+  "expectedPackageFiles": [
+    "/home/ramon/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
